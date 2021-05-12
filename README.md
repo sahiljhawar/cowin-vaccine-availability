@@ -4,7 +4,8 @@ The program is inspired from [cowin-vaccination-slot-availability](https://githu
 ## Usage
 - Clone the repository on your system.
 - Install the dependencies using `pip3 install -r requirements.txt`
-- Open CMD in pwd and run the Python script `python main.py`
+- Open CMD in root folder and run the Python script `python main.py`
+- Open `csvjson.py` in text editor and check for your near about `district_id`.
 ## Current situation
 - Right now, details can only be found using `district_id`.
 - User can search using multiple `district_id`, invalid `district_id` will be shown to the user and will be ignored.
