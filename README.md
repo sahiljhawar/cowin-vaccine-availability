@@ -33,7 +33,7 @@ Choose your vaccine:
 
 >>> 1
 
-Enter district codes: 505,506
+Enter district codes (enter comma separated values): 505,506
 
 [] is/are invalid code/s
 
