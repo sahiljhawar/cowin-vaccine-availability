@@ -1,4 +1,4 @@
-# CLI Python Script to check CoWIN vaccination slot
+# Python CLI Script to check CoWIN vaccination slot
 This script can be used to check the availabilty of vaccination slots using CoWIN API.
 The program is inspired from [cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) and [PyCowinAPI](https://github.com/Kunal-Kumar-Sahoo/PyCowinAPI).
 ## Usage
