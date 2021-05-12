@@ -33,6 +33,7 @@ def get_vaccine_details(n: str, x: int) -> None:
     print([i for i in a if a not in dc.values()], "is/are invalid code/s\n\n")
 
     print("Vaccine availability at (enter comma separated values)", [get_key(i) for i in codes])
+    
     t = PrettyTable([
         "DATE", "PINCODE", "BLOCK NAME", "NAME", "AVAILABLITY", "VACCINE",
         "AGE LIMIT"
