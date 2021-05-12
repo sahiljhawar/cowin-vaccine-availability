@@ -12,7 +12,7 @@ The program is inspired from [cowin-vaccination-slot-availability](https://githu
 
 ## Future changes
 - More functionality will be added to the script.
-- Query using `state_id` and `pincodes` will be added.
+- Query using `state_id` and `pincode` will be added.
 - Will document everything in future commits.
 - Planning to clone the same project and modify it to run it on cloud and send notifications via IFTTT (_uncertain as of now_). 
 
