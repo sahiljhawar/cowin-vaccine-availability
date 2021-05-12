@@ -1,0 +1,4 @@
+prettytable
+requests
+datetime
+json
