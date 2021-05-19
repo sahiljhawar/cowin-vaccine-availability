@@ -1,23 +1,30 @@
 # Python CLI Script to check CoWIN vaccination slot
-This script can be used to check the availabilty of vaccination slots using CoWIN API.
+
+This script can be used to check the availability of vaccination slots using CoWIN API.
 The program is inspired from [cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) and [PyCowinAPI](https://github.com/Kunal-Kumar-Sahoo/PyCowinAPI).
+
 ## Usage
+
 - Clone the repository on your system.
 - Install the dependencies using `pip3 install -r requirements.txt`
 - Open CMD in root folder and run the Python script `python main.py`
 - Open `csvjson.py` in text editor and check for your near about `district_id`.
+
 ## Current situation
+
 - Right now, details can only be found using `district_id`.
 - User can search using multiple `district_id`, invalid `district_id` will be shown to the user and will be ignored.
 - Minor bugs/code formatting issues will be there.
 
 ## Future changes
+
 - More functionality will be added to the script.
 - Query using `state_id` and `pincode` will be added.
 - Will document everything in future commits.
 - Planning to clone the same project and modify it to run it on cloud and send notifications via IFTTT (_uncertain as of now_). 
 
 ## Demo
+
 ```
 python main.py
 For which day you want to enquire for?
@@ -69,12 +76,12 @@ For some reason [findByDistrict](https://apisetu.gov.in/public/marketplace/api/c
 
 # Contributions
 
-Feel free to add to the current project. Futher API call methods can be found on [API Setu](https://apisetu.gov.in/public/marketplace/api/cowin).
+Feel free to add to the current project. Further API call methods can be found on [API Setu](https://apisetu.gov.in/public/marketplace/api/cowin).
 
 ---
 
 # Social
+
 <a href="https://www.linkedin.com/in/sahil-jhawar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/jhawarji" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/sahiljhwar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
