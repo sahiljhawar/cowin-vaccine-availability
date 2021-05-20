@@ -26,7 +26,7 @@ The program is inspired from [cowin-vaccination-slot-availability](https://githu
 ## Demo
 
 ```
-python main.py
+D:\Python\vaccination>python main.py
 For which day you want to enquire for?
     0: Today
     1: Tomorrow
